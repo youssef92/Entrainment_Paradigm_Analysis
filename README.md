@@ -7,15 +7,15 @@ This repo contains the code used for the Analyisis of the results presented in t
 The file `Analysis_entrainment.m` is the main script used for Data Analysis 
 The folder "Utility_functions" contains some helper function Used in the main Script 
 
-# Simulink Model 
+##  Simulink Model 
 
 The folder `SimulinkModel` containts the simulink Model, while the script `Param_IP.m` containts the paramters used in the model, and therefore, it should be executed before running the model 
 
-# Note
+##  Note
 
 The raw-data used for processing is not available, but can be provided request. 
 
-# Contact : 
+##  Contact : 
 
 Youssef Michel (youssef.abdelwadoud@tum.de) 
 
