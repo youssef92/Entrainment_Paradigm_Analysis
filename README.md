@@ -15,7 +15,9 @@ The folder `SimulinkModel` containts the simulink Model, while the script `Param
 
 The raw-data used for processing is not available, but can be provided request. 
 
-Contact : @Youssef Michel (youssef.abdelwadoud@tum.de) 
+# Contact : 
+
+Youssef Michel (youssef.abdelwadoud@tum.de) 
 
 
                                             
